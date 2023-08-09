@@ -1,10 +1,8 @@
-import RyanvsHead from "./head";
 import "./styles.css";
 
 export default function Ryanvs() {
   return (
      <>
-      <RyanvsHead />
       <main>
         <section>
           <h1>ryanvs</h1>

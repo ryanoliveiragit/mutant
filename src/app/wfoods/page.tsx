@@ -1,11 +1,9 @@
 
-import WfoodsHead from "./head";
 import "./styles.css";
 
 export default function Wfoods() {
   return (
      <>
-      <WfoodsHead />
       <main>
         <section>
           <h1>wfoods</h1>
