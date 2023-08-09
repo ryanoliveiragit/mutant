@@ -1,3 +1,7 @@
+* {
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+}
 main {
     display: flex;
     justify-content: center;
@@ -6,6 +10,7 @@ main {
     margin: 0px;
     height: 90vh;
     width: 100%;
+    color: white;
     background-color: black;
 }
 p {
@@ -15,4 +20,7 @@ p {
 }
 section {
     width: 20rem;
+}
+strong {
+    color: white;
 }
