@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    height: 90vh;
+    width: 100%;
+}
+p {
+    font-size: 12px;
+    color: #8d99ae;
+    font-weight: 400;
+}
