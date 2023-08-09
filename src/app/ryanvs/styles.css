@@ -6,6 +6,7 @@ main {
     margin: 0px;
     height: 90vh;
     width: 100%;
+    background-color: black;
 }
 p {
     font-size: 12px;
